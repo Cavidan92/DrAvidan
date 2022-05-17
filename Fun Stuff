@@ -1,0 +1,96 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142910172-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-142910172-1');
+</script>
+
+
+		<title>Fun Stuff</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Corrine Avidan</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li class="active"><a href="publications.html">Publications</a></li>
+							<li><a href="teaching.html">Teaching</a></li>
+              <li><a href="Fun Stuff.html">Fun Stuff</a></li>
+							<li><a href="pdfs/Corrine Avidan Curriculum Vitae 2022.pdf">Vitae</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="mailto:corrine_avidan@brown.edu" class="icon fa-envelope"><span class="label">Email</span></a></li>
+							<li><a href="https://scholar.google.com/citations?user=4ecZ65cAAAAJ&hl=en" class="icon fa-google"><span class="label">Google Scholar</span></a></li>
+              <li><a href="https://www.instagram.com/avidanillustrator/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.github.com/Cavidan92/" class="icon fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+
+				<!-- Main -->
+					<div id="main">
+						
+				<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<h2>Fun Stuff</h2>
+									
+								</header>
+								
+								 <!-- <span class="image fit"><img src="images/journal_cover_span_png.png" alt="" /></span> -->
+                 
+
+       <h2><img src="images/waterbob.gif"></h2>
+
+                 
+				
+								
+							
+				<!-- Placeholder 	<h2>Manuscripts in Progress</h2> -->
+				
+                						
+						<!-- Placeholder 		</div> -->
+                  
+                </div>
+						</section>
+
+					</div>
+
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Corrine Avidan</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>	
