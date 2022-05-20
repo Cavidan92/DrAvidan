@@ -4675,3 +4675,5 @@ input, select, textarea {
 #gallery img:hover {
    filter:none;
 }
+
+#gallery transition: filter 2s;
